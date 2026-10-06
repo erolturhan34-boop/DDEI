@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<job><script language="VBScript">WScript.Echo "DDEI benign WSF test"</script></job>

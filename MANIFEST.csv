@@ -1,0 +1,35 @@
+filename,verification_level,file_identification,sha256
+Sample.class,STRONG,"compiled Java class data, version 65.0 (Java SE 21)",d3aaf95f2137cf0388a64a3156f9dab4606a51136832f4e272da65b999c37bad
+sample.bat,TEXT,"DOS batch file, ASCII text, with CRLF line terminators",302582f5f8b831f05dcdf5c75e7a34f51b35925b988c3aacf9897e2923def0f4
+sample.cmd,TEXT,"DOS batch file, ASCII text, with CRLF line terminators",549e2de90c012942ee2f32055c02f21aa45a3c813da85da4ac3126e911879279
+sample.hta,TEXT,"Microsoft HTML Application (HTA), ASCII text, with CRLF line terminators",492a83486935ba891fda4a5adcac4a9a7ea0ab5c7baf095b1fbcea56c4d7b324
+sample.jar,STRONG,Java archive data (JAR),1a6e04526db6ee4478ac254deed4315a6869e18ef74c033a70f25ac78d94f497
+sample.js,TEXT,"ASCII text, with CRLF line terminators",26d50397a3f0980596f4624b109a768ceba0b9c65d7a5b2429f78afb842a9864
+sample.jse,TEXT,"ASCII text, with no line terminators",ecb3c994869e7c66d6540e3dfe71dbd0643f90a27139609e56c1a05f06179df9
+sample.ps1,TEXT,"ASCII text, with CRLF line terminators",5ee7a5a2c11a0d85d337cdb0db4f032c7e8a219cedf08eaeaf4ed40137e259fd
+sample.url,TEXT,"MS Windows 95 Internet shortcut text (URL=<https://example.com/>), ASCII text, with CRLF line terminators",72b2df091dcf742fb0227671a96b7e1222d6fc053af44c8e5a3b58097ff659a5
+sample.vbe,TEXT,"ASCII text, with no line terminators",ecb3c994869e7c66d6540e3dfe71dbd0643f90a27139609e56c1a05f06179df9
+sample.vbs,TEXT,"ASCII text, with CRLF line terminators",d122b0a5bfbb187bd5d97279590ec1eaed0ff48812660d9a302b56f258f25b5d
+sample.wsf,TEXT,"XML 1.0 document, ASCII text, with CRLF line terminators",d92c353100815ff0e53b302402295658e4e7415ca683bfc91f293c0d9f2ae282
+sample_app.appx,STRONG,Microsoft OOXML,f2075c9b6495fa5d96120f8a83084e7af06eda4700015f7dbc25e9328b17e7b2
+sample_app.msix,STRONG,Microsoft OOXML,f2075c9b6495fa5d96120f8a83084e7af06eda4700015f7dbc25e9328b17e7b2
+sample_bash.sh,TEXT,"Bourne-Again shell script, ASCII text executable",f1179df3c0bd1965e3803c437fae700153c04c2e763acaf5ebdcd4f0a33a34d0
+sample_env_bash.sh,TEXT,"Bourne-Again shell script, ASCII text executable",36dd4390395675edfeaeb102c70d74e808dd49e16870e5b15a1d9c8df443a015
+sample_exit.com,STRUCTURAL,"DOS executable (COM), start instruction 0xb8004ccd",f4ee8102c22efb02332d679649d248c5a6e88d5e31dbd774fb045af1dc28a2d6
+sample_fat_macho.bin,STRONG,"Mach-O universal binary with 1 architecture: [x86_64:\012- Mach-O 64-bit x86_64 object, flags:<|SUBSECTIONS_VIA_SYMBOLS>]",2d29d855aa4d8318e6f2925d334d3f99f9d4c809b56991aff38fadd9b254fc37
+sample_help.chm,STRUCTURAL,MS Windows HtmlHelp Data,76842087ec1ccdbd04eea901e7abb4874fa71b2f5a0cb58800d6b7f103356b89
+sample_installer.msi,STRUCTURAL,"Composite Document File V2 Document, Cannot read section info",7c841c8c047acd85951f0da2e58c18d43c5b8d2ca2c4c7127aa8e11bfddaa94e
+sample_macho.bin,STRONG,"Mach-O 64-bit x86_64 object, flags:<|SUBSECTIONS_VIA_SYMBOLS>",81c3e2264c0d9ab56d3ed7ce09ff497233a74cb4bf29fbbd8b4c8dd0053941bf
+sample_patch.msp,STRUCTURAL,"Composite Document File V2 Document, Cannot read section info",7c841c8c047acd85951f0da2e58c18d43c5b8d2ca2c4c7127aa8e11bfddaa94e
+sample_pe.dll,STRONG,"PE32+ executable for MS Windows 6.00 (DLL), x86-64, 2 sections",dc50cc9fa988465ff9a182f9dfee688e40a4ff1ff83ab6d41b5552fbe954458b
+sample_pe.exe,STRONG,"PE32+ executable for MS Windows 6.00 (console), x86-64",ce62ccf53ce41050ac015f3174a77a7d022efdbd6048691fd6680456158780f2
+sample_perl.pl,TEXT,Perl script text executable,db9997d39c1450eb724a651324459ccda09a0a52c5dee25eb5c6d961d5bbf5bf
+sample_php.php,TEXT,"PHP script, ASCII text",185754c251ff6c5b9880016b4706e81b2096baa51b1bb5c2e116b6bc2a60d930
+sample_python.py,TEXT,"Python script, ASCII text executable",8a2fdcd6d1641a042e1637affec9a379c627815bcced49b6d584344edf04bd65
+sample_ruby.rb,TEXT,"Ruby script, ASCII text executable",06e3418a918591448ecaf002c3e6e5de611f07532d78fda431c7650b9d85ae47
+sample_sh.sh,TEXT,"POSIX shell script, ASCII text executable",d7909319c426b9d9dfa9794cf8735699b9d5ba4b063f7b6bfe4ccb1c5bd0f97f
+sample_shortcut.lnk,STRUCTURAL,"MS Windows shortcut, length=0, window=normal",95e4a0160097d93e7562c1ab4ef8c57deeb36cdc81305018e3703b4b2d2be27b
+sample_test.dmg,STRUCTURAL,data,f4fa6c620fc6823faac7911794da3cba973f3f69a08cbde6585e97f4c467898a
+sample_test.elf,STRONG,"ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c8ff04528da2d42002c724d280303f2ac266f140, for GNU/Linux 3.2.0, not stripped",907fa94ac0a9ea262670e4cb36dc6cdf85ceec716f88aabe257c6bcb24bfb820
+sample_test.pkg,STRONG,"xar archive compressed TOC: 61, no checksum",11f1f9069db68e20c612a88c2eb4146d71e06893b96bf25175b1f484f03ee825
+sample_transform.mst,STRUCTURAL,"Composite Document File V2 Document, Cannot read section info",7c841c8c047acd85951f0da2e58c18d43c5b8d2ca2c4c7127aa8e11bfddaa94e
